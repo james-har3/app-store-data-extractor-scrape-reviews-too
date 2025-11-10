@@ -1,0 +1,35 @@
+[
+  {
+    "wrapperType": "track",
+    "kind": "podcast",
+    "collectionId": 1043547750,
+    "trackId": 1043547750,
+    "artistName": "Game Dev Unchained",
+    "collectionName": "Game Dev Unchained",
+    "trackName": "Game Dev Unchained",
+    "collectionViewUrl": "https://podcasts.apple.com/us/podcast/game-dev-unchained/id1043547750?uo=4",
+    "feedUrl": "https://anchor.fm/s/651ae57c/podcast/rss",
+    "releaseDate": "2021-11-02T23:11:00Z",
+    "country": "USA",
+    "primaryGenreName": "Video Games",
+    "genres": [
+      "Video Games",
+      "Podcasts",
+      "Leisure"
+    ],
+    "reviews": [
+      {
+        "userName": "ultrageoffe",
+        "score": 1,
+        "title": "Ad nightmare",
+        "text": "Ads every few seconds. Don’t waste your time"
+      },
+      {
+        "userName": "Skinny1K",
+        "score": 1,
+        "title": "Found a bug😂",
+        "text": "The game stopped working before I could finish level 1"
+      }
+    ]
+  }
+]
