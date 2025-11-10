@@ -1,0 +1,56 @@
+{
+  "name": "app-store-data-extractor-scrape-reviews-too",
+  "version": "1.0.0",
+  "description": "Extract detailed data from iTunes and the App Store, including app details, media information, and user reviews.",
+  "main": "src/runner.js",
+  "scripts": {
+    "start": "node src/runner.js",
+    "start:sample": "node src/runner.js --input data/sample_input.json --output data/output_sample.json",
+    "test": "jest"
+  },
+  "keywords": [
+    "app-store",
+    "itunes",
+    "scraper",
+    "reviews",
+    "automation",
+    "bitbash"
+  },
+  "author": "Bitbash",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/tests/**/*.test.js"
+    ]
+  }
+}
+
+App Store Data Extractor - Scrape reviews too!/LICENSE
+textMIT License
+
+Copyright (c) 2025 Bitbash
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
