@@ -1,0 +1,9 @@
+{
+  "mode": "search",
+  "term": "Game Dev Unchained",
+  "country": "us",
+  "media": "podcast",
+  "includeReviews": true,
+  "maxItems": 10,
+  "reviewPageLimit": 1
+}
