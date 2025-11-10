@@ -1,0 +1,7 @@
+{
+  "defaultCountry": "us",
+  "defaultMedia": "software",
+  "includeReviews": true,
+  "maxItems": 50,
+  "reviewPageLimit": 1
+}
